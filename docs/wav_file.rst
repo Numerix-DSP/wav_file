@@ -462,5 +462,5 @@ wav_read_header, wav_write_header, wav_display_info, wav_set_info, wav_file_leng
 wav_read_file, wav_write_file, wav_write_file_scaled.
 
 
-Copyright (C) 2000 to 2021 Sigma Numerix Ltd. All rights reserved.
+Copyright (C) 2000 to 2022 Sigma Numerix Ltd. All rights reserved.
 

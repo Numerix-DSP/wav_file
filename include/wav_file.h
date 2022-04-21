@@ -1,6 +1,6 @@
 /****************************************************************************
 wav_file.h
-Copyright (C) 2000 to 2021 Sigma Numerix Ltd. All rights reserved.
+Copyright (C) 2000 to 2022 Sigma Numerix Ltd. All rights reserved.
 ---------------------------------------------------------------------------
 Description : .WAV file I/O routines
 
